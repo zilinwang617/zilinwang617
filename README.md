@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zilin
 - 👀 I’m interested in Photography, Music, and Biology
-- 🌱 I’m currently learning Computational Biology at University of Pittsburgh
+- 🌱 I’m majoring in Computational Biology at University of Pittsburgh
 - 📫 leowangsz@outlook.com
 - 😄 Pronouns: He/Him
 
