@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zilin Wang
-- 🌱 I’m an underdrad student majoring in Computational Biology at University of Pittsburgh
-- 👀 I’m interested in Photography, Music, and Biology
+- 🎓 Computational Biology and Game Design double major.
+- 👀 I’m also interested in Photography, Music, and Coffee
 - 📫 leowangsz@outlook.com
 - 🙋‍♂️ He/Him
