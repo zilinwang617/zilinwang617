@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zilin Wang
 - 🎓 Computational Biology and Game Design double major.
-- 🔬 Currently working on Computer Vision, Unity 3D development and exploring MR/VR i
+- 🔬 Currently working on Computer Vision, Unity 3D development and exploring MR/VR
 - ☕️ I Enjoy Photography, Music, and Coffee
