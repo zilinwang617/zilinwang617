@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Zilin Wang
 - 🎓 Computational Biology and Game Design double major.
-- 🔬 Currently working in Xing Lab as an undergrad researcher
-     focusing on live-cell segmentation.
+- 🔬 Currently working on Computer Vision, Unity 3D development and exploring MR/VR i
 - ☕️ I Enjoy Photography, Music, and Coffee
